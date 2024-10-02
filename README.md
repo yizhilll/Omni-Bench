@@ -2,7 +2,7 @@
 
 The project introduces **OmniBench**, a novel benchmark designed to rigorously evaluate models' ability to recognize, interpret, and reason across **visual**, **acoustic**, and **textual** inputs simultaneously. We define models capable of such tri-modal processing as omni-language models (OLMs).
 
-Results could also be found at the [live leaderboard]([https://m-a-p.ai/OmniBench/#leaderboard](https://ertyuiocvbnm.github.io/OmniBench#leaderboard)).
+Results could also be found at the [live leaderboard](https://ertyuiocvbnm.github.io/OmniBench#leaderboard).
 
 ## Inference
 
